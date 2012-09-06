@@ -1,0 +1,3 @@
+lib/libxbkregex1.so.1.0.0
+/usr/local/include/xbk/xbkregex/xbkregex1.h
+@dirrm include/xbk/xbkregex

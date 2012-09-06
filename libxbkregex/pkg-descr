@@ -1,0 +1,7 @@
+A shared C++ library that gives the c++ programmer a better way to use regex.h. Now it is really easy to work with regulary expressions including error messages.
+
+WWW: http://www.x-itec.de/projects/libxbkregex/www
+
+X-ITEC IT-Consulting
+- Boris Koester
+koester@x-itec.de
